@@ -12,13 +12,14 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate **Frontend Developer** who loves building high-performance, scalable applications. I specialize in creating clean, maintainable code with modern Angular patterns and have a strong focus on architecture, testing, and performance optimization.
+I'm a passionate **Frontend Developer** who loves building high-performance, scalable applications.  
+I specialize in **Angular & TypeScript**, focusing on clean architecture, testing, and performance optimization.
 
-- 🎯 **Angular & TypeScript** specialist with deep RxJS knowledge
-- 🏗️ **Architecture enthusiast** - love designing scalable systems
-- 🔄 **Full-stack journey** - exploring Python, FastAPI & NestJS
-- 👥 **Team player** who enjoys mentoring and code reviews
-- 📈 **Performance optimizer** using OnPush and Angular Signals
+- 🎯 **Angular & TypeScript** specialist with deep RxJS knowledge  
+- 🏗️ **Architecture enthusiast** – designing scalable frontend systems  
+- 🔄 Exploring **Python, FastAPI & NestJS** for full-stack development  
+- 👥 **Team player** who enjoys mentoring and code reviews  
+- ⚡ **Performance optimizer** using OnPush & Angular Signals  
 
 ---
 
@@ -28,7 +29,6 @@ I'm a passionate **Frontend Developer** who loves building high-performance, sca
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -36,11 +36,9 @@ I'm a passionate **Frontend Developer** who loves building high-performance, sca
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### **Testing & Quality**
 ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
-![Karma](https://img.shields.io/badge/Karma-56C0C0?style=for-the-badge&logo=karma&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 
@@ -58,99 +56,27 @@ I'm a passionate **Frontend Developer** who loves building high-performance, sca
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-khaled18&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-khaled18&theme=tokyonight&hide_border=true" alt="Ahmed's GitHub Streak"/>
-</div>
-
 ---
 
-## 🏆 GitHub Trophies
+## 🚀 Featured Work
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmed-khaled18&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2"/>
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-khaled18&theme=tokyo-night&hide_border=true"/>
-</div>
-
----
-
-## 🚀 What I Build
-
-### 🏗️ **Enterprise Architecture**
-- Multi-tenant applications with dynamic theming
-- Three-layered clean architecture (core, facade, presentation)
-- Modular Angular libraries with custom schematics
-- Configuration-driven UI components
-
-### 📱 **Responsive Design**
-- Mobile-first responsive layouts
-- Bootstrap integration with Angular
-- Cross-browser compatibility
-- Adaptive UI components
-
-### ⚡ **Performance & Optimization**
-- OnPush change detection strategy implementation
-- Angular Signals for reactive programming
-- RxJS stream optimization
-- Lazy loading and code splitting
-
-### 🧪 **Testing & Quality**
-- Comprehensive unit testing with Karma & Jasmine
-- Static code analysis and quality enforcement
-- ESLint, Prettier, and Commitlint integration
-- Automated testing in CI/CD pipelines
-
-### 🔧 **Developer Experience**
-- Custom Angular schematics for rapid development
-- Reusable component libraries
-- Compodoc documentation generation
-- Git hooks and automated workflows
-
----
-
-## 🎯 My Expertise
-
-**Frontend Development:**
-- Framework: Angular
-- Language: TypeScript
-- Reactive: RxJS
-- Styling: SCSS, Bootstrap
-- Design: Responsive Design, Mobile-First
-
-**Backend Development:**
-- Python: FastAPI
-- Node.js: NestJS
-- Architecture: RESTful APIs, Microservices
-
-**Testing & Quality:**
-- Unit Testing: Karma + Jasmine
-- Code Quality: ESLint + Prettier
-- Automation: CI/CD Integration
-
-**DevOps & Tools:**
-- Version Control: Git + Azure DevOps
-- Documentation: Compodoc
-- Automation: Husky + Commitlint
+- 🏗️ **Enterprise Angular Architectures** – modular libraries, schematics, and dynamic theming  
+- ⚡ **Performance Optimization** – OnPush, Signals, RxJS tuning, lazy loading  
+- 🧪 **Code Quality Automation** – ESLint, Prettier, CI/CD integration  
+- 🧱 **Reusable Components & Schematics** – developer productivity tools  
 
 ---
 
 ## 🌱 Currently Learning
 
-- 🐍 **Python & FastAPI** for scalable backend services
-- 🦁 **NestJS** for enterprise Node.js applications
-- ☁️ **Azure Cloud Services** and deployment strategies
-- 📱 **Progressive Web Apps** and mobile optimization
-- 🔄 **Microservices** architecture patterns
+- 🐍 **Python & FastAPI** for backend services  
+- 🦁 **NestJS** for enterprise Node.js apps  
+- ☁️ **Azure Cloud** deployment and automation  
+- 📱 **PWA** development and mobile optimization  
 
 ---
 
-## 💡 Development Philosophy
+## 💡 My Philosophy
 
 <div align="center">
 
@@ -158,12 +84,10 @@ I'm a passionate **Frontend Developer** who loves building high-performance, sca
 
 </div>
 
-**My Approach:**
-- 🎯 **Quality First**: Every line of code should have a purpose
-- 🏗️ **Architecture Matters**: Design for scalability and maintainability
-- 👥 **Knowledge Sharing**: Mentoring and collaboration drive growth
-- 🔄 **Continuous Learning**: Stay curious and keep evolving
-- 📱 **User-Centric**: Responsive design for all devices
+- 🎯 Quality-first mindset  
+- 🏗️ Scalable architecture focus  
+- 👥 Collaborative development  
+- 🔄 Continuous learning  
 
 ---
 
@@ -171,14 +95,12 @@ I'm a passionate **Frontend Developer** who loves building high-performance, sca
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmed-khaled18.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedknasr/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmed.k.nasr/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ahmed.k.nasr.18)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201101100483)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.k.nasr18@gmail.com)
-
-</div>
-
-<div align="center">
-  
-I love discussing Angular, TypeScript, and software architecture. Always open to interesting conversations and collaboration!
 
 </div>
 
@@ -189,6 +111,6 @@ I love discussing Angular, TypeScript, and software architecture. Always open to
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmed-khaled18&style=for-the-badge&color=0078d4)
 ![GitHub followers](https://img.shields.io/github/followers/ahmed-khaled18?logo=github&style=for-the-badge&color=0078d4)
 
-**⭐ Thanks for visiting! Feel free to explore my repositories and don't forget to star if you find something interesting!**
+**⭐ Thanks for visiting! Feel free to explore my repositories and star anything that inspires you.**
 
 </div>
